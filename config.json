@@ -1,12 +1,12 @@
 {
-    "ownerNumber": ["YOUR_NUMBER"],
+    "ownerNumber": ["083193733233"],
     "teamNumber": [],
     "timeZone": "Asia/Jakarta",
     "prefix": ".",
     "maintenance": [],
     "stickers": {
-        "author": "Instagram : ini.tobz",
-        "packname": "Made by ChisatoBOT"
+        "author": "Instagram : rxky.mahardika",
+        "packname": "Inferno Bot"
     },
     "settings": {
         "ownerNotifyOnline": false,
